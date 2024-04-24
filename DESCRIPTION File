@@ -10,7 +10,7 @@ Authors@R: "Alec Gremer, agremer@usf.edu [aut, cre]"
 
 Description: This comprehensive R package equips users with a versatile toolkit for seamless data analysis, spanning data manipulation, visualization, and statistical inference. It allows users to explore, analyze, and interpret their data with ease, assisting in informed decision-making and insightful discoveries.
 
-License: CC0
+License: GPL-3
 
 Encoding: UTF-8
 
