@@ -1,0 +1,8 @@
+Package: advancedpkg
+Title: An Advanced Package for Alec Gremer's Data Visualization Project
+Version: 0.1.0
+Authors@R: person("Alec", "Gremer", email = "agremer@usf.edu", role = c("aut", "cre", "maintainer"))
+Description: This comprehensive R package equips users with a versatile toolkit for seamless data analysis, spanning data manipulation, visualization, and statistical inference. It allows users to explore, analyze, and interpret their data with ease, assisting in informed decision-making and insightful discoveries.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
