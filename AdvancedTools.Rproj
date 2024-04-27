@@ -18,3 +18,18 @@ StripTrailingWhitespace: Yes
 BuildType: Package
 PackageUseDevtools: Yes
 PackageInstallArgs: --no-multiarch --with-keep.source
+
+advancedpkg/
+├── DESCRIPTION
+├── R/
+│   ├── calculate_correlation.R
+│   ├── plot_histogram.R
+│   ├── perform_regression.R
+├── man/
+│   ├── calculate_correlation.Rd
+│   ├── plot_histogram.Rd
+│   ├── perform_regression.Rd
+├── tests/
+│   └── test-functions.R
+└── vignettes/
+    └── introduction.Rmd
